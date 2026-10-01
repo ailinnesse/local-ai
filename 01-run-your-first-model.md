@@ -1,6 +1,6 @@
 # Run your first model
 
-Companion to the video: [TITLE](VIDEO-LINK-HERE)
+Companion to the video: [How to Run AI Locally with Ollama](https://youtu.be/t-qfQV7q1OI)
 
 Install Ollama, pull a model that fits your machine, and see where it is
 actually running. About twenty minutes, most of it downloading.
