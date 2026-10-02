@@ -46,9 +46,7 @@ ollama run <model>:3b
 ollama run <model>:8b
 ```
 
-I ran a bare name on a 4 GB card and got a 9.5 GB model. It still worked —
-it just spent most of its time on the processor. Check the model's page on
-[ollama.com/library](https://ollama.com/library) for the tags it publishes,
+Check the model's page on [ollama.com/library](https://ollama.com/library) for the tags it publishes,
 because they vary between models.
 
 ## 4. Ask it something
